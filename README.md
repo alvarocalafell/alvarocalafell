@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Alvaro Calafell
+# 👋 Hi there, I'm Alvaro Calafell
 
 ## 🚀 About Me
 I'm an AI/ML Researcher and Data Scientist passionate about pushing the boundaries of machine learning and artificial intelligence. Currently, I'm working on cutting-edge ML research at Stanford University, focusing on meta-learning and hypernetworks for efficient tabular data classification.
